@@ -1,4 +1,4 @@
-# UniversityMentalHealth
+# [Healthcare] Identifying Mental Health Factors and Predicting Depression
 
 We see more and more people experiencing mental health issues in today’s society, especially in institutes of higher learning. It seems that although we are progressing in terms of technology, our levels of happiness are regressing.
 
